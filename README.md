@@ -1,4 +1,8 @@
-# nosql-challenge
+# Import a JSON file of food establishment ratings data to a MongoDB database 
+# conduct analysis to help a food magazine make decisions about their future articles
+
+
+### nosql-challenge
 module 12 _ NOSQL DB
 
 
